@@ -16,7 +16,8 @@ public class FOPProject {
     public static void main(String[] args) {
         System.out.println("hello world");
 
-        System.out.println("My name is riri");
+System.out.println("my name is riri");
+
     }
     
 }
